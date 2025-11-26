@@ -9,22 +9,22 @@ import MGUScraperImage from "./assets/projects/mguscraper.png";
 import FlashifyImage from "./assets/projects/flashify.png";
 import WeatherifyImage from "./assets/projects/weatherify.png";
 
-export const SITE_URL: string = "https://garciadervin.com";
+export const SITE_URL: string = "https://garciadervin.vercel.app/";
 
 export const meta = {
   about: {
     // index page
-    title: "Dervin Garcia",
+    title: "Dervin García",
     description:
-      "Hi, I'm Dervin Garcia, a software engineer. Welcome to my little corner of the internet!",
+      "Hi, I'm Dervin García, a software engineer. Welcome to my little corner of the internet!",
   },
   projects: {
-    title: "Projects | Dervin Garcia",
+    title: "Projects | Dervin García",
     description:
       "Here are some of my projects — things I’ve built, experimented with, and had fun creating.",
   },
   blog: {
-    title: "Blog | Dervin Garcia",
+    title: "Blog | Dervin García",
     description:
       "This is my blog — a place where I share thoughts, ideas, and things I’m learning along the way.",
   },
@@ -36,17 +36,17 @@ export const header: Header = { logoTitle: "DG" };
 export const footer: Footer = {
   // parses html
   content:
-    "Made with ❤️ by Dervin Garcia • <a href='https://github.com/garciadervin/portfolio' class='link'>Source Code</a>",
+    "Made with ❤️ by Dervin García • <a href='https://github.com/garciadervin/portfolio' class='link'>Source Code</a>",
 };
 
 export const about: About = {
   // parses html
-  headLine: "Hi, I'm <span class='fancy-highlight'>Dervin Garcia</span>",
+  headLine: "Hi, I'm <span class='fancy-highlight'>Dervin García</span>",
   tagLine: "Software Engineer / Full Stack Developer",
   profilePic: ProfilePic,
   // parses html
   description:
-    "I'm a <u>Software Engineer</u> from Venezuela with 3+ years of experience in full-stack development, AI model training, and blockchain technologies. I specialize in <u>Python, JavaScript, and Java</u>, and thrive on building secure, scalable solutions.",
+    "I'm a <u>Software Engineer</u> from Venezuela 🇻🇪 with 3+ years of experience in full-stack development, AI model training, and blockchain technologies. I specialize in <u>Python, JavaScript, and Java</u>, and thrive on building secure, scalable solutions.",
   links: [
     // Lucide icons
     { icon: "Github", href: "https://github.com/garciadervin/" },

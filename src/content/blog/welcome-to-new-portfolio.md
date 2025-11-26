@@ -1,0 +1,11 @@
+---
+title: "Welcome to my new portfolio"
+description: "My latest portfolio website made using Astro and daisyUI."
+pubDate: "Nov 25 2025"
+---
+
+I built a new portfolio website using [Astro](https://astro.build/), starting from their basic blog template.
+
+For styling, I’m using [DaisyUI](https://daisyui.com/) and [Tailwind CSS](https://tailwindcss.com/), with icons from [Lucide](https://lucide.dev/). The background texture comes from [Transparent Textures](https://www.transparenttextures.com/).
+
+👉 You can check out the source code here: [GitHub Repository](https://github.com/garciadervin/portfolio)
