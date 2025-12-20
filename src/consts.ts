@@ -99,21 +99,21 @@ export const projects: Project[] = [
   },
   {
     logoImage: FlashifyImage,
-    title: "UPTA Management",
-    techs: ["Laravel", "JavaScript", "MySQL", "Redis", "Tailwind CSS", "CI/CD"],
+    title: "Video Feed",
+    techs: ["Expo", "React Native", "TypeScript", "FlatList"],
     description:
-      "A comprehensive asset and inventory management system designed to track resources, supplies, and organizational spaces, built with a focus on documentation compliance and Agile methodologies.",
-    sourceHref: "",
-    liveHref: "https://youtu.be/RwyRCEcCl_g?si=BQRhsTDBR9-SNk4U",
+      "A high‑performance vertical video feed built with Expo React Native, featuring horizontal carousels within posts and optimized to handle 200+ entries while maintaining smooth 60 FPS performance.",
+    sourceHref: "https://github.com/garciadervin/video-feed",
+    liveHref: "",
   },
   {
     logoImage: WeatherifyImage,
-    title: "Attenty",
-    techs: ["PHP", "JQuery", "Bootstrap", "MySQL"],
+    title: "AI Blog",
+    techs: ["React", "Node.js", "PostgreSQL", "Docker", "AWS", "Hugging Face"],
     description:
-      "A digital system developed for UPEN, a special education school, to record and monitor student care and activities, improving administrative organization and educational support.",
-    sourceHref: "https://github.com/garciadervin/attenty",
-    liveHref: "",
+      "A full‑stack blog application that automatically generates daily articles using AI, featuring a minimalist responsive design, a RESTful backend API, and containerized deployment ready for AWS.",
+    sourceHref: "https://github.com/garciadervin/auto-blog",
+    liveHref: "http://98.82.132.203/",
   },
 ];
 
